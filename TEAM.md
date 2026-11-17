@@ -11,6 +11,6 @@
 - Lượt gán hoàn tất / được giao: 80/80
 - IAA trước calibration (kèm mẫu số): IoU TB 0.823, đồng thuận lớp 91.8% (mẫu số: 183 cặp box ghép trên 40 ảnh) — CHƯA ĐẠT
 - Số ảnh phải calibration: 36 / 40
-- Vòng QC và số ảnh đã duyệt / cả lô:
-- Tỉ lệ lỗi: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định** (Release / Hold / Rework) và lý do một dòng:
+- Vòng QC và số ảnh đã duyệt / cả lô: Vòng 1 (demo) — 40/40 ảnh
+- Tỉ lệ lỗi: 15.0% theo ảnh (6/40), 2.2% theo đối tượng (8/369) + 1 vật bỏ sót
+- **Quyết định** (Release / Hold / Rework) và lý do một dòng: Hold (chỉ định Rework) — Vòng 1 demo có 6/40 = 15.0% ảnh lỗi (> 2%), cần sửa 6 ảnh lỗi và mở vòng 2 chính thức.
