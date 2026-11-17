@@ -1,4 +1,4 @@
-# Day 07 Lab — Nhóm G04-T034: 229, 077, 120, 125
+# Day 07 Lab — Guideline, Taxonomy & QC
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố · gán box bằng CVAT**
 
