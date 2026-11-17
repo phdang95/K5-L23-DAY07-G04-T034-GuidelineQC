@@ -2,7 +2,7 @@
 
 - Phiên bản: v1.1 (sau Calibration — Pha 5)
 - Ngày: 2026-11-16
-- Người viết / duyệt: Nhóm G04-T034 (`229`, `077`, `120`, `215`) — Điều phối: Phan Hải Đăng (`229`), Review cuối: Lương Hoàng Bảo Trân (`077`)
+- Người viết / duyệt: Nhóm G04-T034 (`229`, `077`, `120`, `125`) — Điều phối: `229`, Review cuối: `077`
 
 ## 1. Mục tiêu
 Bộ nhãn dùng để huấn luyện mô hình **Object Detection 2D (bounding box)** phát hiện **người và phương tiện giao thông** trên ảnh đường phố châu Á, phục vụ camera phân tích lưu lượng giao thông và hệ thống hỗ trợ lái (ADAS).

@@ -1,4 +1,4 @@
-# Day 07 Lab — Nhóm G04-T034: 2A202603229 - Phan Hải Đăng, 2A202603077 - Lương Hoàng Bảo Trân, 2A202603120 - Nguyễn Anh Tiến, 2A202603125 - Lê Trung Sang
+# Day 07 Lab — Nhóm G04-T034: 229, 077, 120, 125
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố · gán box bằng CVAT**
 
