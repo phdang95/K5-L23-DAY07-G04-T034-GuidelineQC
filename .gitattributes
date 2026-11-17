@@ -1,3 +1,9 @@
-submission/qc/assignment.csv text eol=crlf
 submission/guidelines/guideline_v1.0_agreed.md text eol=lf
 submission/taxonomy.json text eol=lf
+submission/guideline_change.json text eol=crlf
+submission/guidelines/guideline_v1.1_calibrated.md text eol=crlf
+submission/qc/*.csv text eol=crlf
+submission/qc/*.json text eol=crlf
+submission/qc/*.md text eol=crlf
+submission/qc/*.txt text eol=crlf
+submission/qc/assignments/*.txt text eol=crlf
