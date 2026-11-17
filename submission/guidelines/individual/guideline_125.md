@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v0.1-cá nhân — 215
+# Guideline gán nhãn — v0.1-cá nhân — 125
 
 - Phiên bản: v0.1-cá nhân (nháp độc lập từ v0, chưa thống nhất nhóm)
 - Ngày: 16/11/2026
-- Người viết / duyệt: 215
+- Người viết / duyệt: 125
 - Phạm vi: 40 ảnh `img_001.jpg`–`img_040.jpg`
 - Trạng thái: bản cá nhân CP1. Ví dụ lớp đã đối chiếu `data/ATTRIBUTION.csv`; riêng `van` chưa có mẫu chắc chắn nên phải xác nhận bằng mắt khi xem đủ 40 ảnh.
 
