@@ -7,3 +7,6 @@ submission/qc/*.json text eol=crlf
 submission/qc/*.md text eol=crlf
 submission/qc/*.txt text eol=crlf
 submission/qc/assignments/*.txt text eol=crlf
+submission/qc/reviews/**/*.csv text eol=lf
+submission/qc/reviews/**/*.json text eol=lf
+submission/qc/reviews/**/*.md text eol=lf

@@ -22,7 +22,7 @@
 
 ## 4. Kết quả duyệt
 
-- Vòng QC: 1.
+- Vòng QC: 1
 - Người review và ngày: 077, 2026-11-17 (theo mã reviewer trong phiếu QC và thông tin nhóm).
 - Đã duyệt / cả lô: 40/40 ảnh. Snapshot ghi mode demo; mẫu gồm 36 ảnh ca_kho và 4 ảnh ngau_nhien, tổng cộng phủ đủ 40 ảnh.
 - Ảnh lỗi / ảnh đã duyệt: 6/40 = 15.0%. Trong nhóm ca_kho: 6/36 = 16.7%; nhóm ngau_nhien: 0/4.
@@ -33,7 +33,7 @@
 
 ## 5. Quyết định bàn giao
 
-- Quyết định: Hold.
+- Quyết định: Hold
 - Lý do, người nhận và phạm vi sử dụng: qc_result.json ghi HOLD. Vòng có mode demo, và tỷ lệ ảnh lỗi 15.0% vượt ngưỡng 2%; do đó chưa đạt điều kiện bàn giao, dù danh sách vòng này có đủ 40 ảnh. Chuyển cho nhóm G04-T034/coach để sửa và kiểm tra; phạm vi hiện tại chỉ là thực hành Day 07, không phải dữ liệu vận hành đã được chứng nhận.
 - Nếu còn việc: Điều phối viên 229 phối hợp sửa nhãn theo 10 dòng lỗi và kiểm tra trạng thái 472 quyết định calibration; reviewer cuối 077 xác nhận lại. Tạo batch manifest mới, mở vòng QC toàn lô mới, cập nhật báo cáo và kết quả QC sau khi các sửa đổi được kiểm chứng.
 - Kiểm ngược từ báo cáo tới ảnh, rule và nhãn: img_001.jpg #5 → C006/R-01; img_003.jpg #23/#24 → R-02 và C029/C035/R-01; img_005.jpg #42/#47 → C062/C059/C064; img_024.jpg #245 → C289/C290; img_031.jpg #298 → R-07/ngưỡng 20 px; img_040.jpg #381 và vùng bỏ sót → R-01/C464/C465. ID và ghi chú chi tiết nằm trong submission/qc/reviews/round-01/qc_review.csv; ảnh, nhãn, manifest và snapshot calibration cùng vòng nằm trong thư mục round-01.
